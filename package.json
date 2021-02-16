@@ -1,5 +1,6 @@
 {
 "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "react-native-webview": "7.4.3"
   }
 }

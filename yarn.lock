@@ -5,3 +5,6 @@ react-native-webview@7.4.2:
 
 react-dom@16.2.0:
   version "16.2.0"
+  
+malicious-npm-package@1.0.0:
+  version "1.0.0"

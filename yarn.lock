@@ -4,7 +4,7 @@ react-native-webview@7.4.2:
   integrity sha512-4n72B2D7n1xOQSoCSD1qk9D7JksyT4d6nk8QG9guZKZn3KXQL5EejwE2yhh1TxZRQpr+OD3a96rb+rA/UEnvrQ==
 
 react-dom@16.2.1:
-  version "16.2.1"
+  version "16.2.0"
   
 malicious-npm-package@1.0.0:
   version "1.0.0"

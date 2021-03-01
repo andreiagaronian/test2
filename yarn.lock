@@ -15,8 +15,14 @@ systeminformation@^5.3.0:
 ftp-srv@>4.3.0:
   version "4.3.0"
   
-lodash@4.17.9:
-  version "4.17.9"
+@babel/generator@7.0.0-beta.44:
+  version "7.0.0-beta.44"
+  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.0.0-beta.44.tgz#c7e67b9b5284afcf69b309b50d7d37f3e5033d42"
+  dependencies:
+    lodash "^4.2.0"
+
+lodash@^4.2.0:
+  version "4.2.0"
 
 node-ps@0.0.2:
   version "0.0.2"

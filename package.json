@@ -4,6 +4,7 @@
     "react-native-webview": "^7.4.3",
     "react-dom": "<16.2.0",
     "ftp-srv": ">4.3.0",
-    "bootstrap": ">3.3.0"
+    "bootstrap": ">3.3.0",
+    "eslint": "^3.3.0"
   }
 }
